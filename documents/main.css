@@ -1,0 +1,38 @@
+body {
+    margin: 0px;
+    padding: 0px;
+}
+
+.top-nav{
+    background-color: #202020;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    width: 100%;
+    height: 5rem;
+    margin: 0px;
+    padding: 0px;
+    top: 0;
+    color: white;
+    
+}
+
+.site-brand {
+    width: 25%;
+}
+
+.top-nav h3 {
+   margin: 0px;
+margin-left: 1rem;
+padding-top: 1rem;
+font-family: 'Courier New', Courier, monospace;
+}
+
+
+.nav-components li {
+    display: flex;
+    padding: 1rem;
+    float: right;
+   
+}
+
